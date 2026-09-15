@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winmax.jason00180018.chatgpt.site/sitemap.xml
